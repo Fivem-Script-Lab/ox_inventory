@@ -3,7 +3,7 @@
 
 Redesign of [ox_inventory](https://github.com/overextended/ox_inventory).
 
-[Support](https://discord.gg/XFgWTCxuvr)
+[Discord Support Server](https://discord.gg/XFgWTCxuvr)
 
 ## Preview
 
